@@ -3,7 +3,7 @@
 
 ## Membres du comité d'administration présents
 - Julien "Juju" VALIENTE, Président, CEO, RSSI, DSI
-- Stéphanie "Pipelette" VASSALO
+- Stéphanie "Pipelette" VASSALLO
 - Bruno "Vigie" TATU
 - --REDACTED-- "M'hack Gyver" --REDACTED--
 - Maxence "Secrétaire" MOHR
@@ -70,7 +70,7 @@ CTF : Adhésion *obligatoire*
 
 - Projet avec l'IHEDN : cyber-défense française
 - Insomni'hack et autres confs
-- Oragnisation AMUSEC
+- Organisation AMUSEC
 - Hack in Provence formation/présentation chez Polytech Marseille (écoles intéressées : centrale, épitech, etc.)
 - Rallye citoyen (Mars) animations avec des élèves, sensibilisation.
 
