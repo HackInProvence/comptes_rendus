@@ -14,7 +14,7 @@ Bruno (Vigie)
 
 # Rapport moral par le Président
 
-Le moral est bon, le président est contant de l'exercice, malgré la perte de la salle où se déroulaient les Hackpéros
+Le moral est bon, le président est content de l'exercice, malgré la perte de la salle où se déroulaient les Hackpéros
 
 10 Hackpéros
 1 présentation CTF
@@ -123,7 +123,7 @@ Le Wagon ?
 
 Le prochain : 29 mars
 Aix : au moins une fois dans l'année
-> Point Godwin : Fred crypto <
+> Point Godwin : F. <
 
 ## Hack in Provence
 
